@@ -1,0 +1,42 @@
+.border-bold {
+    border: 2px solid;
+}
+
+.border-bleak {
+    border-color: #364364;
+}
+
+.text-bleak {
+    color: #364364;
+}
+
+.bg-bleak {
+    background-color: #3c4b70;
+}
+
+.btn-bleak {
+    color: #fff;
+    background-color: #364364;
+    border-color:#364364
+}
+
+.btn-bleak:hover {
+    color:#fff;
+    background-color: #3c4b70;
+    border-color: #3c4b70
+}
+
+.btn-outline-dark {
+    color: #364364;
+    border-color: #364364
+}
+
+.btn-outline-dark:hover {
+    color: #fff;
+    background-color: #364364;
+    border-color: #364364
+}
+
+.f-14 {
+    font-size: 14px;
+}
